@@ -1,8 +1,8 @@
 {
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -22,58 +22,36 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s020c737e2c444c6a50981650c34c5f0",
+    "_skin_": "sd2a01b309b046fe9bc194fb188d695e",
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "25%"
     },
     "actionsInfo": {
         "skipMapping": true
     },
     "allboxes": [],
-    "autogrowmode": 1,
-    "breakpointInfo": {
-        "b1": {
-            "width": 1366
-        },
-        "b2": {
-            "width": 1024
-        },
-        "b3": {
-            "width": 640
-        }
-    },
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblProductLine1",
-        "lblForcasted1",
-        "lblActual1",
-        "lblVariance1"
+        "lblProductLine"
     ],
     "clipbounds": false,
-    "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "desktop",
-            "name": "CopyFBoxProductline0cfaf586391c248Controller"
-        }
-    },
     "enablescrolling": true,
-    "id": "CopyFBoxProductline0cfaf586391c248",
+    "id": "flexProductLine1",
     "info": null,
-    "isGeneratedTemplate": true,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ge5d8144ab2843569c64166817b64a1f",
-    "layouttype": 3,
+    "kuid": "be3c34491d844dc0adddab16ac8cfe4a",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "pf": "CopyFBoxProductline0cfaf586391c248",
+    "parent": "flexProductline",
+    "pf": "Form2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

@@ -1,9 +1,9 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "0dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -16,26 +16,24 @@
         1
     ],
     "_padding_": [
-        1,
-        1,
+        5,
         0,
-        1
+        0,
+        0
     ],
-    "_skin_": "s869d2d7dd444822b4a6bd2703edfacf",
-    "_text_": "Forcasted",
+    "_skin_": "s24462ea20a14b238116dbbedb80e953",
+    "_text_": "ProductLine",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "24.5%"
+        "value": "100%"
     },
     "_wrapping_": 2,
     "actionsInfo": {
-        "dataCollectionId": "records",
-        "dataPropertyName": "Forcasted",
-        "widgetPropertyName": "text"
+        "skipMapping": true
     },
     "android": {
         "textStyle": {
@@ -44,10 +42,9 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblForcasted1",
+    "id": "lblProductLine",
     "info": null,
     "ipad": {
         "psp": {
@@ -61,10 +58,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fb146fe933034857bf0c3b8a5ac3d1f7",
+    "kuid": "a275bec9d2ad4a2b9b917ab9e9e2a930",
     "name": "kony.ui.Label",
-    "parent": "CopyFBoxProductline0cfaf586391c248",
-    "pf": "CopyFBoxProductline0cfaf586391c248",
+    "parent": "flexProductLine1",
+    "pf": "Form2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

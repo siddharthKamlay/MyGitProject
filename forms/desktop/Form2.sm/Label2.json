@@ -1,13 +1,13 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
-    "_bottom_": {
-        "type": "string",
-        "value": "0dp"
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "23dp"
     },
     "_margin_": [
         1,
@@ -16,27 +16,22 @@
         1
     ],
     "_padding_": [
-        1,
-        1,
         0,
-        1
+        0,
+        0,
+        0
     ],
-    "_skin_": "s869d2d7dd444822b4a6bd2703edfacf",
-    "_text_": "Variance",
+    "_skin_": "s7340c4df6d241889db4693c830ae81a",
+    "_text_": "Detailed comparison of  forecasted vs actual values",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "58dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "24.5%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
-    "actionsInfo": {
-        "dataCollectionId": "records",
-        "dataPropertyName": "Variance",
-        "widgetPropertyName": "text"
-    },
     "android": {
         "textStyle": {
             "letterSpacing": 0,
@@ -44,10 +39,9 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblVariance1",
+    "id": "Label2",
     "info": null,
     "ipad": {
         "psp": {
@@ -61,12 +55,14 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i9a140f237bc47e1908c72a4f5207cd7",
+    "kuid": "jfc68cbc56984358a768697d8f32bb5a",
+    "masterType": 1,
     "name": "kony.ui.Label",
-    "parent": "CopyFBoxProductline0cfaf586391c248",
-    "pf": "CopyFBoxProductline0cfaf586391c248",
+    "parent": "FlexContainertable",
+    "pf": "Form2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",
-    "wType": "Label"
+    "wType": "Label",
+    "zindex": 1
 }
