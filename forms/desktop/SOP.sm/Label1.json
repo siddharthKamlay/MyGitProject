@@ -2,12 +2,12 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "19dp"
     },
     "_margin_": [
         1,
@@ -16,25 +16,22 @@
         1
     ],
     "_padding_": [
-        3,
+        0,
         0,
         0,
         0
     ],
-    "_skin_": "s24462ea20a14b238116dbbedb80e953",
-    "_text_": "Actual",
+    "_skin_": "sdda48e2b9eb4917976b898ec939be58",
+    "_text_": "Product Line Comparision",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "14dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
-    "actionsInfo": {
-        "skipMapping": true
-    },
     "android": {
         "textStyle": {
             "letterSpacing": 0,
@@ -44,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblActual",
+    "id": "Label1",
     "info": null,
     "ipad": {
         "psp": {
@@ -58,12 +55,14 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b569800c9ced4f1bb4d8f6a48b7c2a3c",
+    "kuid": "de213cdeb7164d37bce7687fa1b7d44b",
+    "masterType": 1,
     "name": "kony.ui.Label",
-    "parent": "flexActual",
-    "pf": "Form2",
+    "parent": "FlexContainertable",
+    "pf": "SOP",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",
-    "wType": "Label"
+    "wType": "Label",
+    "zindex": 1
 }

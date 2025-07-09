@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "7%"
     },
     "_left_": {
         "type": "string",
@@ -22,14 +22,14 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd2a01b309b046fe9bc194fb188d695e",
+    "_skin_": "seb73518efa24631b60bf51109f82b26",
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "24.5%"
+        "value": "100%"
     },
     "actionsInfo": {
         "skipMapping": true
@@ -38,20 +38,23 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblActual"
+        "flexProductLine1",
+        "flexForcasted",
+        "flexActual",
+        "flexVariance"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flexActual",
+    "id": "flexProductline",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ea617df997ca4f37a9f6a4f8f90b16f2",
-    "layouttype": 2,
+    "kuid": "j1ade7ddcdcf41dd81aa1f08195f5b45",
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "flexProductline",
-    "pf": "Form2",
+    "parent": "flexHeaderProductline",
+    "pf": "SOP",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

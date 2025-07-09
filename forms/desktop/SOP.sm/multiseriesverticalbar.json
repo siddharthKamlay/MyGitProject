@@ -42,8 +42,8 @@
     "kuid": "da4a3ba3199d492497849617975f6dcf",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "Form2",
-    "pf": "Form2",
+    "parent": "SOP",
+    "pf": "SOP",
     "sourceUserWidget": "ud25b457886348fa894a424d5ab2f1ec",
     "wType": "UserWidgetInstance"
 }

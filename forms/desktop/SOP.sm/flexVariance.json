@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "25%"
+        "value": "24.5%"
     },
     "actionsInfo": {
         "skipMapping": true
@@ -38,20 +38,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblProductLine"
+        "lblVariance"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flexProductLine1",
+    "id": "flexVariance",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "be3c34491d844dc0adddab16ac8cfe4a",
+    "kuid": "c205aef4a5ad43a9a92fc226b7194efb",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "flexProductline",
-    "pf": "Form2",
+    "pf": "SOP",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

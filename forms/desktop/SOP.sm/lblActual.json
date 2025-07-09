@@ -16,13 +16,13 @@
         1
     ],
     "_padding_": [
-        5,
+        3,
         0,
         0,
         0
     ],
     "_skin_": "s24462ea20a14b238116dbbedb80e953",
-    "_text_": "ProductLine",
+    "_text_": "Actual",
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -44,7 +44,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblProductLine",
+    "id": "lblActual",
     "info": null,
     "ipad": {
         "psp": {
@@ -58,10 +58,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a275bec9d2ad4a2b9b917ab9e9e2a930",
+    "kuid": "b569800c9ced4f1bb4d8f6a48b7c2a3c",
     "name": "kony.ui.Label",
-    "parent": "flexProductLine1",
-    "pf": "Form2",
+    "parent": "flexActual",
+    "pf": "SOP",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",
