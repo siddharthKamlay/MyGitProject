@@ -46,7 +46,8 @@
     "canvasWidth": 1200,
     "children": [
         "Button0i62ac151f77f43",
-        "Button0b34dce3034c34b"
+        "Button0b34dce3034c34b",
+        "RadioButtonGroup0f22d07bd2fd845"
     ],
     "containerweight": 100,
     "controllerInfo": {
