@@ -29,7 +29,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "191dp"
+        "value": "112dp"
     },
     "_margin_": [
         0,
@@ -45,7 +45,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "603dp"
+        "value": "518dp"
     },
     "_width_": {
         "type": "string",
@@ -62,7 +62,7 @@
             "columnType": "text",
             "columnWidthInPercentage": 33,
             "isColumnSortable": false,
-            "kuid": "b9b3120d14ce4f13a58ba06860dc6ff0"
+            "kuid": "g68edae592a548b79e540dfd323b9143"
         },
         {
             "columnContentAlignment": 5,
@@ -72,7 +72,7 @@
             "columnType": "text",
             "columnWidthInPercentage": 34,
             "isColumnSortable": false,
-            "kuid": "ec4306ea0bb44fa68eb3b7fbf368c0e0"
+            "kuid": "d4ed07c990bd4a7c98325d2fe3ec6e5d"
         },
         {
             "columnContentAlignment": 5,
@@ -82,7 +82,7 @@
             "columnType": "text",
             "columnWidthInPercentage": 33,
             "isColumnSortable": false,
-            "kuid": "c569e77bb0be466c86bb92383e87d2a3"
+            "kuid": "fe860d55851e4a6b945acf8a3e043c99"
         }
     ],
     "columnids": [
@@ -98,16 +98,17 @@
     "containerweight": 100,
     "contentalignment": 5,
     "counter": "32",
+    "crInstance": null,
     "focusedindex": null,
     "focuseditem": null,
     "gridlinestyle": "solid",
     "headerskin": "s6ff2ef668de49caae6e34c522df1896",
-    "id": "DataGrid0cc4975c9cb4949",
+    "id": "DataGrid0e406ac81a47f4e",
     "info": null,
     "iscustomlayout": false,
     "ismultiselect": false,
     "isvisible": true,
-    "kuid": "gb75d34aea8d4463bc25e1cfaf397c80",
+    "kuid": "da0e91f3f2494f758bcef47d20a3e412",
     "name": "kony.ui.DataGrid",
     "parent": "Form1",
     "pf": "Form1",
