@@ -57,7 +57,8 @@
     "canvasWidth": 1200,
     "children": [
         "FlexSKUTable",
-        "FlexContainerPieChart"
+        "FlexContainerPieChart",
+        "navigate"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -75,7 +76,6 @@
     "enabledforidletimeout": false,
     "id": "DemandRequestFrm",
     "ide_onMapping": "AS_Form_a3ae53fada0146c8b74d44da3c77462f",
-    "ide_onNavigate": "AS_Form_dcb4e4ebfdad431bbae654b992de2f1f",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
