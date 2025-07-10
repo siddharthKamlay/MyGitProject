@@ -44,9 +44,7 @@
     },
     "canUpdateUI": true,
     "canvasWidth": 1200,
-    "children": [
-        "FlexContainer0g7fb47565f9147"
-    ],
+    "children": [],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
