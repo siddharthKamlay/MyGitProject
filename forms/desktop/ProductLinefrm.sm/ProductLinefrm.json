@@ -50,13 +50,14 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "FlexContainertable"
+        "FlexContainertable",
+        "FlexChart"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "desktop",
-            "name": "samplefrmController"
+            "name": "ProductLinefrmController"
         }
     },
     "currentLocale": "default",
@@ -66,7 +67,7 @@
     "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "samplefrm",
+    "id": "ProductLinefrm",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

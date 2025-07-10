@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "sb09b9ca55b44599a160986093de1fc1",
-    "_text_": "Detailed comparison of  forecasted vs actual values",
+    "_skin_": "s5bf2d3bd90f44e788439d26ec589ba7",
+    "_text_": "Product Line Comparision",
     "_top_": {
         "type": "string",
-        "value": "58dp"
+        "value": "14dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label2",
+    "id": "Label1",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,11 +55,11 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "g50418f249244e839ab7ed29365b727e",
+    "kuid": "ffeed9cf4510406093b273c20a61e211",
     "masterType": 1,
     "name": "kony.ui.Label",
     "parent": "FlexContainertable",
-    "pf": "samplefrm",
+    "pf": "ProductLinefrm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

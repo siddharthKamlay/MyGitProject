@@ -22,7 +22,7 @@
         0
     ],
     "_skin_": "sdc7fa69db364989a20b9e9e9d6613de",
-    "_text_": "Variance",
+    "_text_": "Forcasted",
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -44,7 +44,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblVariance",
+    "id": "lblForcasted",
     "info": null,
     "ipad": {
         "psp": {
@@ -58,10 +58,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h1526b5798974c78af4c5b2e18f69019",
+    "kuid": "fb1253fd0ad04d86be4f1cbfe35a3158",
     "name": "kony.ui.Label",
-    "parent": "flexVariance",
-    "pf": "samplefrm",
+    "parent": "flexForcasted",
+    "pf": "ProductLinefrm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

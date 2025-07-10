@@ -61,7 +61,7 @@
     "kuid": "b961d69029fb4437b599f1126de1e04a",
     "name": "kony.ui.Label",
     "parent": "flexActual",
-    "pf": "samplefrm",
+    "pf": "ProductLinefrm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

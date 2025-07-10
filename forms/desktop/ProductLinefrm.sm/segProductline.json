@@ -252,7 +252,7 @@
     "pageoffdotimage": "pageoffdot.png",
     "pageondotimage": "pageondot.png",
     "parent": "flexHeaderProductline",
-    "pf": "samplefrm",
+    "pf": "ProductLinefrm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
