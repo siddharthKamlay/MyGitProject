@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "31dp"
+        "value": "60dp"
     },
     "_margin_": [
         0,
@@ -22,7 +22,7 @@
         0
     ],
     "_placeholder_": "Search",
-    "_skin_": "s6811098b2ce4d98a73ad3589c265484",
+    "_skin_": "se826691f14a448d93a76f18c94e6491",
     "_text_": "",
     "_top_": {
         "type": "string",
