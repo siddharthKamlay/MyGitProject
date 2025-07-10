@@ -58,8 +58,7 @@
     "children": [
         "FlexSKUTable",
         "FlexContainerPieChart",
-        "Image0gfe4886f9cee41",
-        "Button0c893a1116dff40"
+        "Image0gfe4886f9cee41"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -76,7 +75,6 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "DemandRequestFrm",
-    "ide_onMapping": "AS_Form_d6f9288976134d2b954f95c47c755502",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
