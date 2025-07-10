@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "800dp"
+        "value": "820dp"
     },
     "_margin_": [
         0,
@@ -22,7 +22,7 @@
         0
     ],
     "_placeholder_": "Please Select",
-    "_skin_": "s6277c3d523c497bbf2fbc0ae295e421",
+    "_skin_": "s03ce01253ea414c9c3984410091707c",
     "_top_": {
         "type": "string",
         "value": "108dp"
