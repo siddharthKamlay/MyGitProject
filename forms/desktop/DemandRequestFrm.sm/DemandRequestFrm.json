@@ -58,7 +58,8 @@
     "children": [
         "FlexSKUTable",
         "FlexContainerPieChart",
-        "Image0gfe4886f9cee41"
+        "Image0gfe4886f9cee41",
+        "Button0c893a1116dff40"
     ],
     "containerweight": 100,
     "controllerInfo": {
