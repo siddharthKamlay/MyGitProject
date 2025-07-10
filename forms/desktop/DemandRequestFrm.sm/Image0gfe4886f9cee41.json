@@ -1,19 +1,20 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "1115dp"
+        "value": "64dp"
     },
     "_margin_": [
-        6,
-        6,
-        6,
-        6
+        0,
+        0,
+        0,
+        0
     ],
     "_padding_": [
         0,
@@ -21,32 +22,32 @@
         0,
         0
     ],
-    "_skin_": "s7ef5ec9efa3429ab9118baed25d407b",
-    "_text_": "navigate",
+    "_skin_": "s5f3c73007e34a2b9f9a91eb8e3e0cf2",
+    "_src_": "menu.png",
     "_top_": {
         "type": "string",
-        "value": "380dp"
+        "value": "50dp"
     },
     "_width_": {
         "type": "string",
-        "value": "120dp"
+        "value": "60dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 5,
-    "displaytext": true,
-    "focusskin": "s03dc07b3c9645fb82a4fa30243c6677",
-    "id": "navigate",
-    "ide_onClick": "AS_Button_ief15d057df64c4ca5ec74c3abe732dc",
+    "id": "Image0gfe4886f9cee41",
+    "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e5d5576e1f6f49219ece73d337aa986e",
-    "name": "kony.ui.Button",
+    "kuid": "jf19e8194d7e4f88b4b3052772bda170",
+    "name": "kony.ui.Image2",
     "parent": "DemandRequestFrm",
     "pf": "DemandRequestFrm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "wType": "Button",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
     "zindex": 1
 }
