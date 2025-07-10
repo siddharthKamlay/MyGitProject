@@ -35,8 +35,10 @@
     },
     "canUpdateUI": true,
     "containerweight": 0,
-    "data": {},
-    "id": "multiseriesverticalbar",
+    "data": {
+        "highValue": "16000"
+    },
+    "id": "barchart",
     "info": null,
     "isvisible": true,
     "kuid": "i8197bc8f93847698efbd2b7b0840b35",
