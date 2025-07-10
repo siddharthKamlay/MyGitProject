@@ -40,18 +40,24 @@
         },
         "b3": {
             "width": 640
+        },
+        "b4": {
+            "width": 1380
+        },
+        "b5": {
+            "width": 1200
         }
     },
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Calendar0c975564cf42349"
+        "FlexSKUTable"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "desktop",
-            "name": "Form1Controller"
+            "name": "DemandRequestFrmController"
         }
     },
     "currentLocale": "default",
@@ -61,7 +67,7 @@
     "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "DemandRequestFrm",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
