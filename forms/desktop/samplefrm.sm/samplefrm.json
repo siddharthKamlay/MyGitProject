@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        2,
+        1,
+        1
+    ],
     "_skin_": "s17074bcf5c2401694f46cd81e1819aa",
     "_title_": null,
     "addWidgetsdone": false,
@@ -45,8 +50,7 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Image0ibe64f38053248",
-        "Button0h0a519bbc79b43"
+        "Image0ibe64f38053248"
     ],
     "containerweight": 100,
     "controllerInfo": {
