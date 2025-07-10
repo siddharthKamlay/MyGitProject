@@ -45,7 +45,8 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Image0ibe64f38053248"
+        "Image0ibe64f38053248",
+        "Button0h0a519bbc79b43"
     ],
     "containerweight": 100,
     "controllerInfo": {
