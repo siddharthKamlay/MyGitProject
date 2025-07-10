@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "34dp"
+        "value": "31dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Overview of latest demand requests across all SKUs",
     "_top_": {
         "type": "string",
-        "value": "44dp"
+        "value": "62dp"
     },
     "_width_": {
         "type": "ref",

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "33dp"
+        "value": "31dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Recent SKU Demand Requests",
     "_top_": {
         "type": "string",
-        "value": "6dp"
+        "value": "18dp"
     },
     "_width_": {
         "type": "ref",
